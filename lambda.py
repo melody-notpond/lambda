@@ -1,3 +1,11 @@
+##
+## lambda.py
+## Lambda applicator written in Python 3
+##
+## jenra
+## January 29 2020
+##
+
 class Variable:
 	def __init__(self, name):
 		self.name = name
